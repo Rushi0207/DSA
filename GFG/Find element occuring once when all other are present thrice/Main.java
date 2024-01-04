@@ -1,4 +1,4 @@
-import java.util.*;
+
 class Main{
     public static void main(String args[]){
         Solution solution=new Solution();
@@ -12,7 +12,7 @@ class Main{
     }
 }
 class Solution {
-    static int singleElement(int[] arr , int N) {
+    int singleElement(int[] arr , int N) {
         // code here
         int ones = 0, twos = 0;
         
