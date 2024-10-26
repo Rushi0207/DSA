@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Count possible ways to construct buildings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find element occuring once when all other are present thrice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Largest Sum Subarray of Size at least K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Merge 2 sorted linked list in reverse order" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Smallest window containing 0, 1 and 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Techfest and the Queue" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
